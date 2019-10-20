@@ -39,6 +39,35 @@
 .video2{
     display: inline-block;
     margin-left: 30px;
-   
 }
+.box1{
+     background-color: #BDCCD4;
+     height: 450px;
+     padding: 35px 98px;
+}
+.text2{
+    font-size: 24px;
+    font-family:'Roboto', sans-serif;
+}
+.grey-box1{
+    background-color: #E6E6E6;
+    height: 270px;
+    width: 270px;
+    display: inline-block;
+    margin-top: 30px;
+}
+.grey-box{
+    background-color: #E6E6E6;
+    height: 270px;
+    width: 270px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.text3{
+    font-family:'Roboto', sans-serif;
+    font-size: 22px;
+    padding: 10px 15px;
+}
+
 
